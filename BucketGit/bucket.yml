@@ -1,0 +1,6 @@
+flows:
+  cdc96072-7f22-4412-94dd-4c59ccb9cd61: {ver: 1, file: TestFlowGit.snapshot, comments: '',
+    author: anonymous, created: 1687881297797, flowName: TestFlowGit, flowDesc: Test
+      Flow Git}
+layoutVer: 1
+bucketId: a337781d-11b8-47be-a3ec-a6e452cbfb0a
